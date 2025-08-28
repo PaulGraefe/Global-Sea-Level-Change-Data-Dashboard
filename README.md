@@ -13,6 +13,6 @@ Ziel ist es, zentrale Muster und Trends sichtbar zu machen sowie statistische Ve
 Die Daten stammen aus dem Kaggle-Datensatz *Sea Level Change* ([somesh24/sea-level-change](https://www.kaggle.com/datasets/somesh24/sea-level-change)).
 """)
 
-Die Ergebnisse können auf einem [Live-Dashboard ansehen]([https://share.streamlit.io/username/mein-projekt/main/dashboard.py](https://paulgraefe-global-sea-level-change-data-dashbo-dashboard-wnmhs9.streamlit.app/))
+Die Ergebnisse können auf einem [Live-Dashboard ansehen](https://paulgraefe-global-sea-level-change-data-dashbo-dashboard-wnmhs9.streamlit.app/)
 angesehen werden 
 
