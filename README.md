@@ -1,4 +1,4 @@
-st.markdown("""
+
 # Global Sea Level Change – Data Dashboard
 
 Dieses Projket analysiert die langfristige Entwicklung des globalen Meeresspiegels auf Basis historischer Beobachtungsdaten seit dem 19. Jahrhundert.  
